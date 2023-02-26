@@ -5,7 +5,7 @@ body {
 
 a {
     color: rgb(219, 219, 219);
-    font: arial;
+    font-family: Arial;
 }
 
 p {
